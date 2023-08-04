@@ -15,6 +15,13 @@ and topography.
 - uses [quantized-mesh-encoder](https://github.com/kylebarron/quantized-mesh-encoder) for response
 - supports variable tile sizes, buffer
 
+## Docker
+
+Build
+
+```
+$ docker build -t mmonticello .
+```
 
 ## Usage
 
